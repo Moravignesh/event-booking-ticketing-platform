@@ -1,4 +1,4 @@
-# ⚡ EventX — Event Booking & Ticketing Platform
+#  Event Booking & Ticketing Platform
 
 A full-stack event booking system built with **FastAPI + React**.
 
@@ -13,8 +13,11 @@ eventbooking/
 ```
 
 ---
+## Demo videos
+frontend demo video:https://drive.google.com/file/d/179YJzcdnKS5jFqgGfMnoIWc4lMVWGrQJ/view?usp=sharing
 
-## 🚀 Quick Start
+backend demo video:https://drive.google.com/file/d/16vJQN_P2gjQhfapKhnKLLIWH4iXgLumU/view?usp=sharing
+##  Quick Start
 
 ### Prerequisites
 - Python 3.10+
@@ -62,7 +65,7 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-## 🔑 Demo Credentials (Auto-seeded)
+##  Demo Credentials (Auto-seeded)
 
 | Role  | Email                      | Password  |
 |-------|----------------------------|-----------|
@@ -71,7 +74,7 @@ Frontend runs at: **http://localhost:5173**
 
 ---
 
-## 📋 All API Endpoints
+##  All API Endpoints
 
 ### Auth
 | Method | Endpoint         | Description        | Auth     |
@@ -138,7 +141,7 @@ When no Stripe key is configured, payments are **auto-confirmed instantly** for 
 
 ---
 
-## 🔒 Security Features
+##  Security Features
 - JWT authentication with 24-hour token expiry
 - Bcrypt password hashing
 - Role-based access control (Admin / User)
@@ -147,7 +150,7 @@ When no Stripe key is configured, payments are **auto-confirmed instantly** for 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer    | Technology              |
 |----------|-------------------------|
@@ -179,7 +182,7 @@ Recommended VS Code extensions:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 **"Module not found" (Python)**  
 Make sure your virtual environment is activated: `source venv/bin/activate`
